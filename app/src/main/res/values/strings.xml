@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="title">Shop</string>
+    <string name="details">Details</string>
+    <string name="catalog">CATALOG</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="account">ACCOUNT</string>
+    <string name="closed">ЗАКРЫТО</string>
+
+
+</resources>
